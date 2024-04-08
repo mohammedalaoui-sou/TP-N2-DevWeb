@@ -1,7 +1,2 @@
-# TPs-DevWeb
-Un repertoire pour les travaux pratique du developpement web
-
---------------------------------------------------------------------
-
 #TP N2 DevWeb
-    TP consiste de ridige une page simple pour cette decoration.
+    le TP consiste de ridigee une page simple avec cette decoration.
